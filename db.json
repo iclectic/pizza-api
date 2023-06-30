@@ -1,0 +1,120 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "Margherita",
+        "restaurant": "Pizza Paradise",
+        "web": "www.pizzaparadise.com",
+        "description": "Classic Italian pizza with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+        "ingredients": [
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Fresh basil leaves"
+        ],
+        "address": [
+          {
+            "addressid": 1,
+            "number": 123,
+            "line1": "Main Street",
+            "line2": "",
+            "postcode": "12345",
+            "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni",
+        "restaurant": "Pizza Palace",
+        "web": "www.pizzapalace.com",
+        "description": "Classic pizza topped with pepperoni slices and melted cheese.",
+        "ingredients": [
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Pepperoni slices"
+        ],
+        "address": [
+          {
+            "addressid": 2,
+            "number": 456,
+            "line1": "Broadway Avenue",
+            "line2": "Suite 200",
+            "postcode": "67890",
+            "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "BBQ Chicken",
+        "restaurant": "Smoky Joe's",
+        "web": "www.smokyjoes.com",
+        "description": "Delicious pizza topped with BBQ sauce, grilled chicken, onions, and cheese.",
+        "ingredients": [
+          "BBQ sauce",
+          "Grilled chicken",
+          "Onions",
+          "Cheese"
+        ],
+        "address": [
+          {
+            "addressid": 3,
+            "number": 789,
+            "line1": "Oak Street",
+            "line2": "",
+            "postcode": "54321",
+            "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vegetarian",
+        "restaurant": "Green Garden Pizza",
+        "web": "www.greengardenpizza.com",
+        "description": "A pizza loaded with fresh vegetables like bell peppers, mushrooms, olives, and tomatoes.",
+        "ingredients": [
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Bell peppers",
+          "Mushrooms",
+          "Olives",
+          "Tomatoes"
+        ],
+        "address": [
+          {
+            "addressid": 4,
+            "number": 246,
+            "line1": "Elm Avenue",
+            "line2": "Suite 100",
+            "postcode": "98765",
+            "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hawaiian",
+        "restaurant": "Tropical Pizza Hut",
+        "web": "www.tropicalpizzahut.com",
+        "description": "A tropical twist with ham, pineapple, and cheese on a delicious pizza base.",
+        "ingredients": [
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Ham",
+          "Pineapple"
+        ],
+        "address": [
+          {
+            "addressid": 5,
+            "number": 135,
+            "line1": "Palm Street",
+            "line2": "Ikate",
+            "postcode": "54321",
+            "country": "United States"
+          }
+        ]
+      }
+    ]
+  }
+  
